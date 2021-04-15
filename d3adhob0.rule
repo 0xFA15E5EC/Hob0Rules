@@ -57521,12 +57521,14 @@ sa@so0si!se3
 sa@so0si1se3su4
 so0 si1 se3 ss$ sa@
 so0 si1 se3 ss$ sa@ $!
-so0 si1 se3 ss$ sa@ $1 $5
-so0 si1 se3 ss$ sa@ $2 $0 $1 $5
-so0 si1 se3 ss$ sa@ $2 $0 $1 $6
-so0 si1 se3 ss$ sa@ $2 $0 $1 $6 $!
-^5 ^1 ^0 ^2 so0 si1 se3 ss$ sa@ 
-^6 ^1 ^0 ^2 so0 si1 se3 ss$ sa@ 
+so0 si1 se3 ss$ sa@ $2 $0
+so0 si1 se3 ss$ sa@ $2 $1
+so0 si1 se3 ss$ sa@ $2 $0 $2 $0
+so0 si1 se3 ss$ sa@ $2 $0 $2 $1
+so0 si1 se3 ss$ sa@ $2 $0 $2 $0 $!
+so0 si1 se3 ss$ sa@ $2 $0 $2 $1 $!
+^8 ^1 ^0 ^2 so0 si1 se3 ss$ sa@ 
+^9 ^1 ^0 ^2 so0 si1 se3 ss$ sa@
 ^0
 ^1
 ^2
